@@ -1,0 +1,169 @@
+{
+  "captured": "2026-11-21",
+  "os": "Kali Rolling 2026.3",
+  "gnome": "50.4",
+  "extensions": [
+    {
+      "uuid": "blur-my-shell@aunetx",
+      "name": "Blur my Shell",
+      "versions": [
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "url": "https://github.com/aunetx/blur-my-shell",
+      "version": 78
+    },
+    {
+      "uuid": "apps-menu@gnome-shell-extensions.gcampax.github.com",
+      "name": "Apps Menu",
+      "versions": [
+        "50"
+      ],
+      "url": "https://gitlab.gnome.org/GNOME/gnome-shell-extensions",
+      "version": null
+    },
+    {
+      "uuid": "dash-to-dock@micxgx.gmail.com",
+      "name": "Dash to Dock",
+      "versions": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "url": "https://micheleg.github.io/dash-to-dock/",
+      "version": 110
+    },
+    {
+      "uuid": "ding@rastersoft.com",
+      "name": "Desktop Icons NG (DING)",
+      "versions": [
+        "50",
+        "51"
+      ],
+      "url": "https://gitlab.com/rastersoft/desktop-icons-ng",
+      "version": null
+    },
+    {
+      "uuid": "kiwimenu@kemma",
+      "name": "Kiwi Menu",
+      "versions": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "url": "https://github.com/kem-a/kiwi-menu",
+      "version": 36
+    },
+    {
+      "uuid": "liquid-glass@thinkingcoding1231.gmail.com",
+      "name": "Liquid Glass",
+      "versions": [
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "url": "https://github.com/ryohsuke1231/liquid-glass",
+      "version": null
+    },
+    {
+      "uuid": "tiling-assistant@leleat-on-github",
+      "name": "Tiling Assistant",
+      "versions": [
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "url": "https://github.com/ubuntu/Tiling-Assistant",
+      "version": 56
+    },
+    {
+      "uuid": "ubuntu-appindicators@ubuntu.com",
+      "name": "Ubuntu AppIndicators",
+      "versions": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "url": "https://github.com/ubuntu/gnome-shell-extension-appindicator",
+      "version": null
+    },
+    {
+      "uuid": "compiz-windows-effect@hermes83.github.com",
+      "name": "Compiz windows effect",
+      "versions": [
+        "49",
+        "50",
+        "51"
+      ],
+      "url": "https://github.com/hermes83/compiz-windows-effect",
+      "version": 33
+    },
+    {
+      "uuid": "compiz-alike-magic-lamp-effect@hermes83.github.com",
+      "name": "Compiz alike magic lamp effect",
+      "versions": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49",
+        "50",
+        "51"
+      ],
+      "url": "https://github.com/hermes83/compiz-alike-magic-lamp-effect",
+      "version": 25
+    },
+    {
+      "uuid": "user-theme@gnome-shell-extensions.gcampax.github.com",
+      "name": "User Themes",
+      "versions": [
+        "50"
+      ],
+      "url": "https://gitlab.gnome.org/GNOME/gnome-shell-extensions",
+      "version": null
+    }
+  ],
+  "units": [
+    ".themes/MacTahoe-Dark",
+    ".local/share/icons/MacTahoe",
+    ".local/share/icons/MacTahoe-dark",
+    ".config/gtk-4.0",
+    ".local/share/backgrounds/gnome-macos",
+    ".local/share/fonts/gnome-macos",
+    ".local/share/gnome-shell/extensions/blur-my-shell@aunetx",
+    ".local/share/gnome-shell/extensions/apps-menu@gnome-shell-extensions.gcampax.github.com",
+    ".local/share/gnome-shell/extensions/dash-to-dock@micxgx.gmail.com",
+    ".local/share/gnome-shell/extensions/ding@rastersoft.com",
+    ".local/share/gnome-shell/extensions/kiwimenu@kemma",
+    ".local/share/gnome-shell/extensions/liquid-glass@thinkingcoding1231.gmail.com",
+    ".local/share/gnome-shell/extensions/tiling-assistant@leleat-on-github",
+    ".local/share/gnome-shell/extensions/ubuntu-appindicators@ubuntu.com",
+    ".local/share/gnome-shell/extensions/compiz-windows-effect@hermes83.github.com",
+    ".local/share/gnome-shell/extensions/compiz-alike-magic-lamp-effect@hermes83.github.com",
+    ".local/share/gnome-shell/extensions/user-theme@gnome-shell-extensions.gcampax.github.com",
+    ".config/gtk-3.0/gtk.css",
+    ".config/gtk-3.0/settings.ini",
+    ".config/gtk-3.0/minimalista.css"
+  ],
+  "notes": "Snapshot local com personalizações; sem contas ou credenciais."
+}
